@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+theano
+pandas
+git+https://github.com/Lasagne/Lasagne.git
+git+https://github.com/dnouri/nolearn.git
